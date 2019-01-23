@@ -8,7 +8,9 @@ For example, say: "Alexa, ask My Presence on Instagram how many followers do I h
 Exemplary requests:
 
 “How is my latest post doing?”
+
 “How many post do i have published?”
+
 “What is my followers count?”
 
 
