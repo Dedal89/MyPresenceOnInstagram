@@ -19,9 +19,11 @@ To use the skill, a link to the user’s Instagram account is required. MyPresen
 The following data is retrieved by the skill:
 
 **Information of past posts** – The Alexa Skill processes the number of likes, as well as the comments and the time of publication of the last Instagram post by the user.
+
 **Information of the account** – The Alexa Skill processes the number of following and by the user followed accounts as well as the description in the bio.
+
 The above listed data will be **deleted** after the request. **No user data is stored, analyzed or forwarded**.
 
 Account linking between the Amazon and the Instagram account uses the OAuth 2.0 authorization framework. For this Skill the [Implicit Grant](https://tools.ietf.org/html/rfc6749#section-4.2) is used. To simplify usage and avoid permanent login, the Instagram authorization code is stored by Amazon and linked to the skill. The authorization code will be deleted when the skill is deactivated and can be requested again after reactivation.
 
-# Instagram is not involved in that skill.
+# Instagram is not involved in this skill.
